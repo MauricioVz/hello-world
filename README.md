@@ -1,2 +1,3 @@
 # hello-world
-This is my first proyect to learn how to use github
+this is my first branch- im learning a lot with this tutorial
+
